@@ -1,0 +1,11 @@
+/**
+*
+*  Linux pthread
+*
+**/
+
+Assignment : Write a program which is used to create simple thread by using
+pthread library.
+
+Description :
+This is just a demo code which illustrate how to use pthread library.
