@@ -1,0 +1,12 @@
+/**
+*
+*  Linux pthread
+*
+**/
+
+Assignment : Write a program which creates two thread , first thread print
+numbers from 1 to 500 & other thread print the numbers from 500 to 1.
+
+Description :
+This is just a demo code which illustrate how to use pthread library.
+One thread prints from 1 to 500 and another prints from 500 to 1
